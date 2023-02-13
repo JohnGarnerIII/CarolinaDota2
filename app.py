@@ -1,3 +1,4 @@
+# pip install flask
 from flask import Flask
 
 # Make sure  to download python-dotenv
